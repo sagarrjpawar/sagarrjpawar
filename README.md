@@ -1,15 +1,9 @@
-### Hey Everyone, I'm Sagar &nbsp;&nbsp;
-
-***
-
-I’m  creative and detail-oriented Front-End Developer with over 5+ years of experience in designing and developing user-friendly websites and web applications.
-
-***
-
+# Hey Everyone, I'm Sagar &nbsp;&nbsp;
+> I’m  creative and detail-oriented Front-End Developer with over 5+ years of experience in designing and developing user-friendly websites and web applications.
+#
 <a href="https://www.facebook.com/sagarrjpawar/">
   <img align="left" alt="Sagar's Facebook" width="20px" src="https://simpleicons.now.sh/facebook/1877F2" />
 </a>
-
 <a href="https://www.instagram.com/sagarjpawar/">
   <img align="left" alt="Sagar's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/E4405F" />
 </a>
@@ -25,10 +19,6 @@ I’m  creative and detail-oriented Front-End Developer with over 5+ years of ex
 <a href="https://behance.net/sagarjpawar">
   <img align="left" alt="Sagar's Behance" width="20px" src="https://simpleicons.now.sh/behance/1769FF" />
 </a>
-<a href="https://dribbble.com/sagarjpawar">
-  <img align="left" alt="Sagar's Dribbble" width="20px" src="https://simpleicons.now.sh/dribbble/EA4C89" />
-</a>
-
 <a href="https://dribbble.com/sagarjpawar">
   <img align="left" alt="Sagar's Dribbble" width="20px" src="https://simpleicons.now.sh/dribbble/EA4C89" />
 </a>
