@@ -23,4 +23,4 @@
   <img align="left" alt="Sagar's Dribbble" width="20px" src="https://simpleicons.now.sh/dribbble/EA4C89" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; <a href="https://imsagar.in">Website</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="https://imsagar.in/contact">Work Inquiry</a>
+| &nbsp;&nbsp;&nbsp; <a href="https://sagarjpawar.in">Website</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="https://sagarjpawar.in/">Work Inquiry</a>
