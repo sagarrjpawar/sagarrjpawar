@@ -8,7 +8,7 @@
   <img align="left" alt="Sagar's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/E4405F" />
 </a>
 <a href="https://twitter.com/sagarjpawar">
-  <img align="left" alt="Sagar's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/1DA1F2" />
+  <img align="left" alt="Sagar's Twitter" width="20px" src="https://simpleicons.now.sh/x/f5f5f5" />
 </a>
 <a href="https://linkedin.com/in/sagarjpawar">
   <img align="left" alt="Sagar's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/0A66C2" />
